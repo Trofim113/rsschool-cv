@@ -16,7 +16,6 @@
 * C#
 * C++
 * HTML/ CSS
-* JavaScript - in progress
 
 ----
 **Examples of code**
