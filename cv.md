@@ -9,6 +9,7 @@
 
 ----
 **Few words about myself**
+
 *Hello, my name is Trofim, I am 29 years old. I am from the city of Krasnodar, Krasnodar Territory, Russia. I am a specialist in the field of repair and maintenance of special vehicles. I like my work, in which I have reached my limit and now I need to move on. I decided to try to get back into IT and start with a free Front-end course on RSSchool. I need to study a lot to complete this course. My goal is to gain sufficient skills for future work as a Front-end developer.*
 
 ----
