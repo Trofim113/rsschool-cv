@@ -44,7 +44,7 @@ namespace HelloWorld
 ----
 **Education**
 
-*Graduated from the Kuban State Technological Institute with a degree in: Applied Informatics in Economics*
+*Graduated from the Kuban State Technological Institute with a degree in: Applied Informatics in Economics, awarded qualifications: Bachelor and Master*
 
 ----
 **English**
