@@ -63,7 +63,7 @@ aside{
 }
 
 .section__nav{
-    font-size: 1.5rem;
+    font-size: 2rem;
 	font-weight: 300;
 }
 
@@ -99,7 +99,7 @@ aside{
    .wrap {
 	display: flex;
 	margin: 10 auto;/*центрируем ее*/
-	background: darkgray;
+	background: #9e9e9e;
 	height: 100px;/*Задаем высоту обертки*/
 	display: flex;
 	position: relative;
